@@ -1,0 +1,12 @@
+snapchat:
+  domains:
+    - snapchat.com
+    - snapads.com
+    - snapkit.com
+    - sc-cdn.net
+    - snapcdn.io
+    - feelinsonice.com
+  cidrs:
+    - 199.66.216.0/22
+    - 185.215.64.0/22
+    - 216.239.32.0/19
