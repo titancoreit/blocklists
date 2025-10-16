@@ -1,0 +1,18 @@
+tiktok:
+  domains:
+    - tiktok.com
+    - tiktokcdn.com
+    - tiktokv.com
+    - tiktokcdn-us.com
+    - byteoversea.com
+    - muscdn.com
+    - p16-tiktokcdn-com.akamaized.net
+    - tiktokd.org
+    - tiktokd.net
+  cidrs:
+    - 47.246.0.0/16
+    - 8.210.0.0/15
+    - 8.212.0.0/14
+    - 8.216.0.0/13
+    - 8.224.0.0/12
+    - 8.240.0.0/13
