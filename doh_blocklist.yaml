@@ -1,0 +1,29 @@
+doh_blocklist:
+  domains:
+    - dns.google
+    - doh.dns.google
+    - cloudflare-dns.com
+    - one.one.one.one
+    - 1dot1dot1dot1.cloudflare-dns.com
+    - dns.quad9.net
+    - dns9.quad9.net
+    - resolver1.opendns.com
+    - resolver2.opendns.com
+    - resolver3.opendns.com
+    - resolver4.opendns.com
+    - dns.nextdns.io
+    - dns1.nextdns.io
+    - dns.adguard.com
+    - dns-family.adguard.com
+    - dns.cleanbrowsing.org
+    - adult-filter-dns.cleanbrowsing.org
+    - dnsforge.de
+    - doh.mullvad.net
+    - dns.seby.io
+    - doh.captnemo.in
+    - doh.opendns.com
+    - dns.google.com
+    - dns.sb
+    - public.dns.iij.jp
+    - dns.cloudflare.com
+    - secure.dns.project.com
